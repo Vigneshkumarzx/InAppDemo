@@ -1,0 +1,68 @@
+{
+  "identifier" : "FEF3DA67",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "4277DA2C",
+      "localizations" : [
+        {
+          "description" : "Remove add In your app ",
+          "displayName" : "Remove Adds",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myApp.removeAds",
+      "referenceName" : "RemoveAds",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "10184FB9",
+      "localizations" : [
+        {
+          "description" : "Add Gems in your app",
+          "displayName" : "Gems",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myApp.gems",
+      "referenceName" : "Gems",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "306CAF41",
+      "localizations" : [
+        {
+          "description" : "Remove Everything in your app",
+          "displayName" : "Everyting ",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Remove everyting on your App",
+          "displayName" : "Everything",
+          "locale" : "ar"
+        }
+      ],
+      "productID" : "com.myApp.removeEverything",
+      "referenceName" : "Everything",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
